@@ -3,7 +3,7 @@
 **English** | [中文](README_zh.md)
 
 [Github](https://github.com/oxygen-dioxide/milk-eng) | 
-[Gitlab](https://gitlab.com/oxygen-dioxide/milk-jpn) | 
+[Gitlab](https://gitlab.com/oxygen-dioxide/milk-eng) | 
 [Bitbucket](https://bitbucket.org/oxygendioxide/milk-eng) | 
 [Coding](https://oxygen-dioxide.coding.net/public/1/milk-eng/git/files)
 
