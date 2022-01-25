@@ -21,8 +21,8 @@ According to Milk's [Voicebank Terms of Use](license.md), redistribution of voic
 - Arpasing English reclist
 
 ## Links
-- CV：Xepheris
-- Oto：DiPi, Kimchi_tan, Kale
-- Quality Checking by DiPi and Kimchi_tan
+- CV: Xepheris
+- Oto: Infoholic, Gehenna
+- Quality Checking: Infoholic
 - [Milk Official Website](https://xepheris.wixsite.com/milk)
 - [Xepheris' bilibili channel](https://space.bilibili.com/618761702)
