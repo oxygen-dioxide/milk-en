@@ -1,0 +1,46 @@
+#Adobe Audition
+*.pkf
+
+#UTAU Engines
+*.ctspec
+*.d4c
+*.dio
+*.frc
+*.frt
+*.frq
+*.llsm
+*.mrq
+*.pkf
+*.pmk
+*.uspec
+*.vs4ufrq
+
+#UTAU related tools
+$read
+*.setParam-Scache
+*.lbp
+*.lbp.caches/*
+
+#Deepvocal
+*.DVModel
+*-log.txt
+SKC
+SKI
+SKC_1
+SKC_2
+*.sksd
+
+#VocalSharp
+*.scep
+*.vssf
+*.vsdx
+*.vsdxindex
+
+#Binary Archive
+*.7z
+*.zip
+*.rar
+*.exe
+
+*.bat
+*.ps1
